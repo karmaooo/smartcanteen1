@@ -1,0 +1,1 @@
+web:waitress-serve --port=SPORT classmanager.wsgi:application
